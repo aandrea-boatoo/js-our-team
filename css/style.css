@@ -1,28 +1,29 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-header{
+header {
     text-align: center;
     padding: 30px;
 }
-h1{
+
+h1 {
     padding: 15px;
 }
 
-header p{
+header p {
     max-width: 900px;
     margin: 0 auto;
 }
 
-#staff{
+#staff {
     max-width: 800px;
     margin: 30px auto;
 }
 
-.card{
+.card {
     width: 29%;
     padding: 10px;
     border-radius: 10px;
@@ -30,36 +31,40 @@ header p{
     color: rgb(194, 206, 218);
 }
 
-.image{
+.image {
     width: 40%;
 }
 
-img{
+img {
     width: 100%;
     border-radius: 5px;
 }
 
-.info{
+.info {
     width: 58%;
 }
 
-.info .email{
-    font-size: small;
+.info .email {
+    width: 100%;
 }
 
-#join{
+#join {
     max-width: 24%;
     margin: 30px auto;
 }
 
-input{
+input {
     width: 47%;
 }
 
-#inpImg{
+#inpName {
     width: 100%;
 }
 
-#subButton{
+#inpImg {
+    width: 100%;
+}
+
+#subButton {
     width: 100%;
 }
